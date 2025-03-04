@@ -1,0 +1,28 @@
+﻿Mid X,Mid Y,Rotation,Layer,Designator,mpn,pack,footprint,value,mount_type
+144.25,-59.0,90.0,top,C1,,,C_0402,1uF,smt
+135.25,-60.25,-90.0,top,C10,,,C_0402,100nF,smt
+137.75,-53.75,-90.0,top,C2,,,C_0402,1uF,smt
+143.75,-52.5,0.0,top,C3,,,C_0603,10uF,smt
+143.25,-53.5,0.0,top,C4,,,C_0402,100nF,smt
+140.0,-47.75,0.0,top,C5,,,C_0402,1uF,smt
+130.279999,-46.5,180.0,top,C6,,,C_0603,4.7uF,smt
+126.0,-49.25,90.0,top,C7,,,C_0402,100nF,smt
+127.1,-49.25,90.0,top,C8,,,C_0402,100nF,smt
+126.750002,-58.5,90.0,top,C9,,,C_0402,100nF,smt
+147.95,-49.75,0.0,top,H1,,,"Hole, 3mm",~,tht
+114.0,-49.7,0.0,top,H2,,,"Hole, 3mm",~,tht
+131.0,-58.525,180.0,top,IC1,TXB0108RGYR,,SN74LVC541ARGYR,TXB0108RGYR,smt
+140.0,-65.725,0.0,top,J1,,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,5V_In,tht
+131.0,-64.75,0.0,top,J2,,,Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal,Conn_01x12_MountingPin,smt
+86.09,-51.19,0.0,top,PN1,,,Part_Num_JLCPCB,~,tht
+130.48,-52.62,0.0,top,R1,,,R_0402,2.2kΩ,tht
+127.75,-53.5,0.0,top,R2,,,R_0402,2.2kΩ,tht
+132.25,-54.0,180.0,top,R3,,,R_0402,47kΩ,tht
+133.750001,-46.884,180.0,top,R4,,,R_0402,47kΩ,tht
+127.75,-54.75,0.0,top,R5,,,R_0402,47kΩ,tht
+133.75,-51.75,180.0,top,R7,,,R_0402,47kΩ,tht
+134.999999,-50.25,90.0,top,R8,,,R_0402,47kΩ,tht
+127.45,-52.47,180.0,top,R9,,,R_0402,47kΩ,tht
+140.25,-50.5,90.0,top,U1,RT9013-18GB,,SOT94P279X130-5N,RT9013-18GB,smt
+140.250001,-57.25,-90.0,top,U2,,,SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR,AMS1117,tht
+131.0,-49.692,90.0,top,U3,VL53L8CXV0GC/1,,VL53L8CXV0GC1,VL53L8CXV0GC_1,smt

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RT9013-18GB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-23-20:31:08)
+    (mountForm default
+        (footprintRef "SOT94P279X130-5N")
+        (spec "System")
+    )
+)

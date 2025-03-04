@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VL53L5CXV0GC_1
+D Proximity Sensors Time-of-Flight 8x8 multizone ranging sensor with wide field of view
+K
+F https://www.arrow.com/en/products/vl53l5cxv0gc1/stmicroelectronics?region=nac
+$ENDCMP
+#
+#End Doc Library

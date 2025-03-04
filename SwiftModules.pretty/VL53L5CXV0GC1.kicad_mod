@@ -1,0 +1,307 @@
+(footprint "VL53L5CXV0GC1"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "VL53L5CXV0GC/1")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "a1f5706c-2f75-4dce-9329-69cd12c38f50")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "VL53L5CXV0GC1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "491b4501-5436-4240-98b4-087df9fe3ec7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9d0bb85-63c9-46a6-946a-5f76dc95ef24")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1f11c87-02eb-492c-b01b-340fb0d83814")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.2 -1.502)
+		(end 3.2 -1.502)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "912ce278-21a4-486a-8ef2-9e11632c14e5")
+	)
+	(fp_line
+		(start -3.2 1.501)
+		(end -3.2 -1.502)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3e6e9ef-f352-4394-98f6-233bba75d0c5")
+	)
+	(fp_line
+		(start 3.2 -1.502)
+		(end 3.2 1.501)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77cc24d9-6823-405d-9145-8846088ab6b7")
+	)
+	(fp_line
+		(start 3.2 1.501)
+		(end -3.2 1.501)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f0b912a-1454-4aaf-9c1d-cbba08052348")
+	)
+	(fp_line
+		(start -4.2 -2.502)
+		(end 4.2 -2.502)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d394ec90-ca5f-4112-a69a-3f11adbdfc9f")
+	)
+	(fp_line
+		(start -4.2 2.502)
+		(end -4.2 -2.502)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fe56ee76-bad0-47db-84ee-e4b3210c5478")
+	)
+	(fp_line
+		(start 4.2 -2.502)
+		(end 4.2 2.502)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "28ec63ad-43a2-4d89-b0eb-86d1f3a9159a")
+	)
+	(fp_line
+		(start 4.2 2.502)
+		(end -4.2 2.502)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "90894b8f-a069-41bf-883a-3b203691fb59")
+	)
+	(fp_line
+		(start -3.2 -1.502)
+		(end 3.2 -1.502)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1275fe5b-3129-471c-92a9-1c26c7aa3116")
+	)
+	(fp_line
+		(start -3.2 1.501)
+		(end -3.2 -1.502)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "56063627-c03e-4b4b-8432-b121df864dd6")
+	)
+	(fp_line
+		(start 3.2 -1.502)
+		(end 3.2 1.501)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a6e0a0b-0db7-4425-a7ef-276430676986")
+	)
+	(fp_line
+		(start 3.2 1.501)
+		(end -3.2 1.501)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9b21e3de-6d48-4625-bebf-641f094ea859")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "917f3030-5699-4a0b-8889-c504ca568528")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "A1" smd rect
+		(at 2.25 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "90427412-f200-4f47-884f-fdf2158858ce")
+	)
+	(pad "A2" smd rect
+		(at 1.5 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "48edd657-b6f2-4631-aac9-81c60310bfdf")
+	)
+	(pad "A3" smd rect
+		(at 0.75 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d656eb95-4143-4067-835b-e8ec27286393")
+	)
+	(pad "A4" smd rect
+		(at 0 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b24a126e-1747-4e78-a617-20acaa0a5f15")
+	)
+	(pad "A5" smd rect
+		(at -0.75 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ae6ccf84-7dcb-45cd-9b30-1266cee7ba2a")
+	)
+	(pad "A6" smd rect
+		(at -1.5 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "43179cb5-43f8-4feb-9481-f0b522e7c973")
+	)
+	(pad "A7" smd rect
+		(at -2.25 1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8456ca9a-796c-4623-9dea-22eba8e1e76f")
+	)
+	(pad "A8" smd rect
+		(at 2.4 0.75 90)
+		(size 0.1 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6bac79b0-4a18-408d-94b3-ad8cd41bb85b")
+	)
+	(pad "B1" smd rect
+		(at 2.65 0 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "abb89453-62a2-4ea9-9c5f-e81a667fac8d")
+	)
+	(pad "B4" smd rect
+		(at 0 0 90)
+		(size 1.2 2.316)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e0a5a22f-bb88-4863-bfd9-153b0cc69c7d")
+	)
+	(pad "B7" smd rect
+		(at -2.65 0 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bb228fe3-623f-4973-9e56-add020c3bf87")
+	)
+	(pad "C1" smd rect
+		(at 2.25 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fa8faa2b-2050-4dd9-ab43-12eaff666dc4")
+	)
+	(pad "C2" smd rect
+		(at 1.5 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f3271df7-9ca5-46e0-932f-71dd5905d639")
+	)
+	(pad "C3" smd rect
+		(at 0.75 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fbcce7fa-2e2f-48c9-ae55-757b97f948c1")
+	)
+	(pad "C4" smd rect
+		(at 0 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ba77f38a-3189-43eb-8af3-61d96b6a12ab")
+	)
+	(pad "C5" smd rect
+		(at -0.75 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8bdcc0dc-003d-4899-b195-feb78296e247")
+	)
+	(pad "C6" smd rect
+		(at -1.5 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fb19973b-1497-43b3-92fe-1ee9f467afef")
+	)
+	(pad "C7" smd rect
+		(at -2.25 -1.05 90)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ee533867-e46e-41c8-9f38-0e480b86f155")
+	)
+	(embedded_fonts no)
+	(model "E:/Proiecte/Electronica/SwiftCircuit/SwiftModule/Raw Libs/VL53L5CXV0GC_1/3D/VL53L5CXV0GC_1.stp"
+		(offset
+			(xyz -0.4999999925 0.01999999925 0.2499999962)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

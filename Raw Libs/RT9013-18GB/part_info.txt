@@ -1,0 +1,9 @@
+Manufacturer=RICHTEK
+PartNumber=RT9013-18GB
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.2
+Released=2020-11-24 06:52:58
+Downloaded=2025-03-02 12:42:26
+3D=Y

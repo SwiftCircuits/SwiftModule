@@ -1,0 +1,16 @@
+.RT9013-18GB :1 ;IC, LDO, FIXED, 1.8V, 0.5A, SOT-23-5; Output Type:Fixed; Input Voltage Min:2.2V; Input Voltage Max:5.5V; Fixed Output Voltage Nom.:1.8V; Adjustable Output Voltage Min:-; Adjustable Output Voltage Max:-; Output Current:500mA; Dropout RoHS Compliant: Yes
+SOT94P279X130-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="NC" 5="VOUT"
+*MXP 5
+*DFN RT9013-18GB
+~!Mouser Part Number (835-RT9013-18GB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Richtek/RT9013-18GB?qs=amGC7iS6iy%252Bp8NSjBMkogA%3D%3D)
+~!Manufacturer_Name (RICHTEK)
+~!Manufacturer_Part_Number (RT9013-18GB)
+~!Link Datasheet (https://datasheet5.oss-cn-shanghai.aliyuncs.com/datasheets/richtek/DS9013-10.pdf)
+~!Height (1.295mm)
+~!3D_Model (RT9013-18GB)
+RT9013-18GB
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

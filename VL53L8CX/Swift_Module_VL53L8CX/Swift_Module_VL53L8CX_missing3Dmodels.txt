@@ -1,0 +1,29 @@
+### Missing 3D models - created on 2025-03-02 19:08
+### Printed by checking_3D_models plugin
+Board file: E:/Proiecte/Electronica/SwiftCircuit/SwiftModule/VL53L8CX/Swift_Module_VL53L8CX/Swift_Module_VL53L8CX.kicad_pcb
+3D missing models written to:
+E:\Proiecte\Electronica\SwiftCircuit\SwiftModule\VL53L8CX\Swift_Module_VL53L8CX\Swift_Module_VL53L8CX_missing3Dmodels.txt
+-------
+('R9', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('C1', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('R1', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('IC1', 'E:\\Proiecte\\Electronica\\SwiftCircuit\\SwiftModule\\VL53L8CX\\Swift_Module_VL53L8CX\\TXB0108RGYR.stp')
+('R2', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('R5', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('C7', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('C9', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('C6', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('U2', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.step')
+('C5', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('R8', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('C3', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('C8', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('C2', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('C10', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+('R4', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('R7', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('R3', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step')
+('C4', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step')
+-------
+NUM of 3D missing models:20
+checked extensions ['.stp', '.step', '.stpZ']

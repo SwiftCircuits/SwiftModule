@@ -1,0 +1,243 @@
+(footprint "SOT94P279X130-5N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOT-23-5 Surface Mount Package")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "77a1dc9d-007f-44ce-b56d-ea04370c3367")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SOT94P279X130-5N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3665f7d3-fbe1-412e-9c09-2ca9112c5aed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5ee9c33-8a6f-4686-8d56-5124114a7590")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "beab372d-b228-4a61-9ec4-c77073c92162")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.875 -1.514)
+		(end -0.625 -1.514)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e10e82b-a399-42e4-a02d-eba5125ac6d2")
+	)
+	(fp_line
+		(start -0.275 -1.448)
+		(end 0.275 -1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "406a15d7-9958-4498-accd-84bfbdbbbb1b")
+	)
+	(fp_line
+		(start -0.275 1.448)
+		(end -0.275 -1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c706597-d8c3-4a4c-b539-c07a7453247b")
+	)
+	(fp_line
+		(start 0.275 -1.448)
+		(end 0.275 1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b66eea50-d16a-48c6-9346-a2687a35977a")
+	)
+	(fp_line
+		(start 0.275 1.448)
+		(end -0.275 1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3512cb67-f91d-4f0a-a0c0-3c6c992e0bbc")
+	)
+	(fp_line
+		(start -2.125 -1.8)
+		(end 2.125 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "bf91d4de-eeb9-4f5c-899a-ba19cf302cfa")
+	)
+	(fp_line
+		(start -2.125 1.8)
+		(end -2.125 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4d9e54e4-38ba-4718-be76-f836f4de41f1")
+	)
+	(fp_line
+		(start -0.8 -1.448)
+		(end 0.8 -1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "f82eef87-62ab-4fe7-a8fa-dcd5b98c62c7")
+	)
+	(fp_line
+		(start -0.8 -0.508)
+		(end 0.14 -1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c0e7ccea-68f0-48a1-aae4-575320ca662d")
+	)
+	(fp_line
+		(start -0.8 1.448)
+		(end -0.8 -1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e32e93fe-8245-4f87-b9af-9c028c4ec0da")
+	)
+	(fp_line
+		(start 0.8 -1.448)
+		(end 0.8 1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "35a7e46b-cb10-452b-8659-3d34d5911eb7")
+	)
+	(fp_line
+		(start 0.8 1.448)
+		(end -0.8 1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "655a2545-4e9b-4f8b-9981-fbc9d4ff909e")
+	)
+	(fp_line
+		(start 2.125 -1.8)
+		(end 2.125 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0a6898a4-413e-4b4b-b6b5-f15d7eeeac90")
+	)
+	(fp_line
+		(start 2.125 1.8)
+		(end -2.125 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "73e3a401-a093-4b52-b7e1-8c61dbaf8ff6")
+	)
+	(pad "1" smd rect
+		(at -1.25 -0.94 90)
+		(size 0.65 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "7b1a3ba0-852b-4933-b992-b1cd38db681f")
+	)
+	(pad "2" smd rect
+		(at -1.25 0 90)
+		(size 0.65 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "b2dd92ec-afdb-43c1-8f47-98bbe3776d07")
+	)
+	(pad "3" smd rect
+		(at -1.25 0.94 90)
+		(size 0.65 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "0652a4cb-4edf-4328-a685-ab020c3b5117")
+	)
+	(pad "4" smd rect
+		(at 1.25 0.94 90)
+		(size 0.65 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "44475e2a-c09f-49b9-9acc-9d2c06782113")
+	)
+	(pad "5" smd rect
+		(at 1.25 -0.94 90)
+		(size 0.65 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "bdd95478-9db5-45b0-a36a-d3abfa768ab9")
+	)
+	(embedded_fonts no)
+	(model "E:/Proiecte/Electronica/SwiftCircuit/SwiftModule/Raw Libs/RT9013-18GB/3D/RT9013-18GB.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RT9013_18GB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RICHTEK", "RT9013-18GB" (!) = "", "SOT94P279X130-5N", "SOT23 (5-Pin)", "835-RT9013-18GB", "https://www.mouser.co.uk/ProductDetail/Richtek/RT9013-18GB?qs=amGC7iS6iy%252Bp8NSjBMkogA%3D%3D", "IC, LDO, FIXED, 1.8V, 0.5A, SOT-23-5; Output Type:Fixed; Input Voltage Min:2.2V; Input Voltage Max:5.5V; Fixed Output Voltage Nom.:1.8V; Adjustable Output Voltage Min:-; Adjustable Output Voltage Max:-; Output Current:500mA; Dropout RoHS Compliant: Yes", "https://datasheet5.oss-cn-shanghai.aliyuncs.com/datasheets/richtek/DS9013-10.pdf", "1.295 mm"
+END_PART
+
+END.

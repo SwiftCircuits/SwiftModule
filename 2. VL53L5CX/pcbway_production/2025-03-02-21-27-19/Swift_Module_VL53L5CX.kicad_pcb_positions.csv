@@ -1,0 +1,19 @@
+﻿Mid X,Mid Y,Rotation,Layer,Designator,mpn,pack,footprint,value,mount_type
+140.0,-47.0,180.0,top,C1,,,C_0402,1uF,smt
+136.25,-43.25,-90.0,top,C2,,,C_0402,1uF,smt
+137.5,-43.5,-90.0,top,C3,,,C_0603,10uF,smt
+127.25,-38.0,-90.0,top,C4,,,C_0603,4.7uF,smt
+125.25,-42.5,-90.0,top,C5,,,C_0402,100nF,smt
+115.0,-42.0,0.0,top,H1,,,"Hole, 3mm",~,tht
+145.0,-42.0,0.0,top,H2,,,"Hole, 3mm",~,tht
+129.95,-42.0,180.0,top,IC2,VL53L5CXV0GC/1,,VL53L5CXV0GC1,VL53L5CXV0GC_1,smt
+139.0,-51.125,0.0,top,J1,,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,5V_In,tht
+129.95,-50.1,0.0,top,J2,,,Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal,Conn_01x12_MountingPin,smt
+121.250001,-53.812,180.0,top,J3,,,PinHeader_1x07_P1.00mm_Vertical,Conn_01x07,tht
+131.5,-46.0,180.0,top,R1,,,R_0402,2.2kΩ,tht
+133.5,-45.999998,180.0,top,R2,,,R_0402,2.2kΩ,tht
+128.25,-45.0,0.0,top,R4,,,R_0402,47kΩ,tht
+129.0,-38.75,0.0,top,R7,,,R_0402,47kΩ,tht
+131.0,-38.749998,180.0,top,R8,,,R_0402,47kΩ,tht
+125.75,-45.750002,180.0,top,R9,,,R_0402,47kΩ,tht
+140.0,-44.25,-90.0,top,U1,,,SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR,XC6206P332MR,smt

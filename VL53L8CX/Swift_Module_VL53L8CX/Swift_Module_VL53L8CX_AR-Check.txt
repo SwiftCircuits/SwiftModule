@@ -1,0 +1,30 @@
+AR checking written on:
+'E:\Proiecte\Electronica\SwiftCircuit\SwiftModule\VL53L8CX\Swift_Module_VL53L8CX\Swift_Module_VL53L8CX_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+VIAS that Pass = 57; Fails = 0
+AR PTH violation of 0.1 at XY 140.250001,54.25
+AR PTH violation of 0.1 at XY 139.25,54.25
+AR PTH violation of 0.1 at XY 141.250001,54.250001
+AR PTH violation of 0.05 at XY 112.0,49.7
+AR PTH violation of 0.05 at XY 112.59,48.29
+AR PTH violation of 0.05 at XY 112.59,51.11
+AR PTH violation of 0.05 at XY 114.0,47.7
+AR PTH violation of 0.05 at XY 114.0,51.7
+AR PTH violation of 0.05 at XY 115.41,48.29
+AR PTH violation of 0.05 at XY 115.41,51.11
+AR PTH violation of 0.05 at XY 116.0,49.7
+AR PTH violation of 0.05 at XY 145.95,49.75
+AR PTH violation of 0.05 at XY 146.54,48.34
+AR PTH violation of 0.05 at XY 146.54,51.16
+AR PTH violation of 0.05 at XY 147.95,47.75
+AR PTH violation of 0.05 at XY 147.95,51.75
+AR PTH violation of 0.05 at XY 149.36,48.34
+AR PTH violation of 0.05 at XY 149.36,51.16
+AR PTH violation of 0.05 at XY 149.95,49.75
+TH PADS that Pass = 4; Fails = 19
+NPTH PADS that Pass = 0; Fails = 0

@@ -1,0 +1,126 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RT9013-18GB"
+   (description "IC, LDO, FIXED, 1.8V, 0.5A, SOT-23-5; Output Type:Fixed; Input Voltage Min:2.2V; Input Voltage Max:5.5V; Fixed Output Voltage Nom.:1.8V; Adjustable Output Voltage Min:-; Adjustable Output Voltage Max:-; Output Current:500mA; Dropout RoHS Compliant: Yes")
+   (family "ANA")
+   (package "SOT94P279X130-5N")
+   (attribute "Datasheet Link" "https://datasheet5.oss-cn-shanghai.aliyuncs.com/datasheets/richtek/DS9013-10.pdf")
+   (attribute "Geometry.Height" "1.295mm")
+   (attribute "Mouser Part Number" "835-RT9013-18GB")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Richtek/RT9013-18GB?qs=amGC7iS6iy%252Bp8NSjBMkogA%3D%3D")
+   (attribute "Manufacturer_Name" "RICHTEK")
+   (attribute "Manufacturer_Part_Number" "RT9013-18GB")
+   (gate
+    (symbol "RT9013-18GB")
+    (pin "VIN" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "EN" 3 PS)
+    (pin "NC" 4 NC)
+    (pin "VOUT" 5 PS)
+   )
+  )
+  (symbol "RT9013-18GB"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT94P279X130-5N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.125 1.8)
+      (pt 2.125 1.8)
+      (pt 2.125 -1.8)
+      (pt -2.125 -1.8)
+      (pt -2.125 1.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 1.448)
+      (pt 0.8 1.448)
+      (pt 0.8 -1.448)
+      (pt -0.8 -1.448)
+      (pt -0.8 1.448))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.508)
+      (pt 0.14 1.448))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.275 1.448)
+      (pt 0.275 1.448)
+      (pt 0.275 -1.448)
+      (pt -0.275 -1.448)
+      (pt -0.275 1.448))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.875 1.514)
+      (pt -0.625 1.514))))
+   (leg 1 (pt -1.25 0.94) (padstack 0))
+   (leg 2 (pt -1.25 0) (padstack 0))
+   (leg 3 (pt -1.25 -0.94) (padstack 0))
+   (leg 4 (pt 1.25 -0.94) (padstack 0))
+   (leg 5 (pt 1.25 0.94) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.25 0 0 0))
+   )
+   (model "RT9013-18GB.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

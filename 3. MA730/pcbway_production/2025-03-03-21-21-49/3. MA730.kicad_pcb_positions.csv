@@ -1,0 +1,13 @@
+﻿Mid X,Mid Y,Rotation,Layer,Designator,mpn,pack,footprint,value,mount_type
+123.75,-68.75,0.0,top,C1,,,C_0402,1uF,smt
+128.5,-66.75,0.0,top,C2,,,C_0402,1uF,smt
+122.75,-67.750002,180.0,top,C3,,,C_0402,1uF,smt
+131.75,-62.37,0.0,top,H1,,,"Hole, 3mm",~,tht
+131.75,-80.75,0.0,top,H2,,,"Hole, 3mm",~,tht
+113.37,-62.37,0.0,top,H3,,,"Hole, 3mm",~,tht
+113.37,-80.75,0.0,top,H4,,,"Hole, 3mm",~,tht
+118.670002,-61.975001,-90.0,bottom,J1,,,PinHeader_2x04_P2.54mm_Vertical,Conn_02x04_Odd_Even,tht
+130.475,-72.75,90.0,bottom,J11,,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,5V_In,tht
+122.56,-78.55,0.0,top,J6,,,Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal,Conn_ENCODER_1,smt
+122.56,-71.56,0.0,top,U1,,,QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm,MA730,smt
+125.75,-67.75,0.0,top,U2,,,SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR,XC6206P332MR,smt

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VL53L8CXV0GC_1
+D Low-power high-performance 8x8 multizone Time-of-Flight sensor 940 nm, 6.4x3.0x1.75 mm, -30 to 85C
+K
+F https://www.st.com/resource/en/datasheet/vl53l8cx.pdf
+$ENDCMP
+#
+#End Doc Library
